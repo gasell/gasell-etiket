@@ -7,7 +7,7 @@ Profesyonel sevkiyat etiket oluşturma sistemi. ISO 780 standartlarına uygun, �
 
 ## 🚀 Canlı Demo
 
-**[https://kullanici-adi.github.io/repo-adi/](https://kullanici-adi.github.io/repo-adi/)**
+**[https://gasell.github.io/gasell-etiket/](https://gasell.github.io/gasell-etiket/)**
 
 ## ✨ Özellikler
 
